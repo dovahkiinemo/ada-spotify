@@ -1,0 +1,39 @@
+{
+    "Moulin": {
+        "musicas": [
+            "The Little Things Give You Away - Live from Shanghai, 2007",
+            "Cracker Island (feat. Thundercat)",
+            "Controllah (feat. MC Bin Laden)",
+            "Famous Last Words - Live at O2 Music-Flash, E-Werk, Berlin, Germany, 10/14/2006"
+        ]
+    },
+    "Rock": {
+        "musicas": [
+            "Faint - Live",
+            "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+            "Why'd You Only Call Me When You're High?",
+            "Feel Good Inc."
+        ]
+    },
+    "LP": {
+        "musicas": [
+            "Amazing",
+            "Neon Moon"
+        ]
+    },
+    "Teste": {
+        "musicas": [
+            "Teste"
+        ]
+    },
+    "Alex": {
+        "musicas": [
+            "Numb"
+        ]
+    },
+    "Alex2": {
+        "musicas": [
+            "Waiting for the End"
+        ]
+    }
+}

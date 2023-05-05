@@ -1,0 +1,3 @@
+tipo usuario,id_usuario,senha
+admin,admin,admin
+cliente,user,user
